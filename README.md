@@ -8,6 +8,6 @@ My name is Wenjie Tu and I'm a master student at ⚡ University of Zurich ⚡. I
 - 🏫 I’m currently studying at **University of Zurich**
 - 🎓 I’m currently learning **Economics** and **Data Science**
 - 👯 I’m looking to collaborate on a project (The Impact of Euathanasia on Suicide Rates among Elderly)
-- 📫 How to reach me: <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+- 📫 How to reach me:
 - ⚡ Fun fact: I love driving 🚙
 -->
