@@ -1,8 +1,6 @@
 # Hello, folks 👋
 
-<!--
-**wenjie-tu/wenjie-tu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
- 
+
 My name is Wenjie Tu and I'm a master student at ⚡ University of Zurich ⚡. I intend to develop a career as a data analyst. 
 
 - 🏫 I’m currently studying at **University of Zurich**
@@ -10,4 +8,3 @@ My name is Wenjie Tu and I'm a master student at ⚡ University of Zurich ⚡. I
 - 👯 I’m looking to collaborate on a project (The Impact of Euathanasia on Suicide Rates among Elderly)
 - 📫 How to reach me ✉️ tuwenjie78@gmail.com 
 - ⚡ Fun fact: I love driving 🚙
--->
