@@ -6,12 +6,12 @@
 
 # Hello, folks <img src='./icon/wave.gif' width='40'>
 
-My name is **Wenjie Tu** and I'm a master student at University of Zurich​. I intend to develop a career as a data scientist.
+My name is **Wenjie Tu** and I'm a master student at the [University of Zurich](https://www.uzh.ch/en.html).
 
 * :cn: :airplane: :switzerland: 
 
 - 🎓 I major in **Economics** and minor in **Data Science**
-- 👯  I'm looking to work with other researchers in economics, social science, statistics, data science
+- 👯  I'm interested in applied microeconomics, statistics, machine learning, political science
 - :link: ​[Personal Page](https://wenjie-tu.github.io/)
 - :e-mail: How to reach me: wenjie.tu@uzh.ch
 - ⚡ Fun fact: I love driving 🚙
