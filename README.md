@@ -16,4 +16,4 @@ My name is **Wenjie Tu** and I'm a master student at the [University of Zurich](
 - :e-mail: How to reach me: wenjie.tu@uzh.ch
 - ⚡ Fun fact: I love driving 🚙
 
-<img src="./icon/truman.gif">
+<img src="./icon/truman.gif" width=300>
