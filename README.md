@@ -9,11 +9,10 @@
 My name is **Wenjie Tu** and I'm a master student at the [University of Zurich](https://www.uzh.ch/en.html).
 
 * :cn: :airplane: :switzerland: 
-
-- 🎓 I major in **Economics** and minor in **Data Science**
-- :heart: I'm interested in microeconometrics, applied statistics, psychology, behavioral science, political science, and girls
-- :link: ​[Personal Page](https://wenjie-tu.github.io/)
-- :e-mail: How to reach me: wenjie.tu@uzh.ch
-- ⚡ Fun fact: I love driving 🚙
+* 🎓 I major in **Economics** and minor in **Data Science**
+* :heart: I'm interested in microeconometrics, applied statistics, psychology, behavioral science, political science, and girls
+* :link: ​[Personal Page](https://wenjie-tu.github.io/)
+* :e-mail: How to reach me: wenjie.tu@uzh.ch
+* ⚡ Fun fact: I love driving 🚙
 
 <img src="./icon/truman.gif" width=300>
